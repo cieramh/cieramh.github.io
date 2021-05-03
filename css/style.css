@@ -53,7 +53,8 @@ h2 {
 
 img {
   width: 100%;
-  height: auto;
+  height: 50vh;
+  object-fit: cover;
 }
 
 
@@ -150,7 +151,7 @@ img {
 }
 
 .container {
-  min-width: 500px; */
+ /* min-width: 500px; */
   margin: auto;
 }
 
