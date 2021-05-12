@@ -15,7 +15,7 @@ header, footer {
 }
 header {
   font-family: 'IBM Plex Sans', sans-serif;
-   color: #fff;
+   color: #ffbf81;
    min-height: 100vh;
    display: flex; }
 main {
@@ -67,7 +67,7 @@ img {
   }
 
   .bio {
-    color: #ffffff;
+    color: #ffbf81;
     font-size: 24px;
     font-family: 'Work Sans';
   }
